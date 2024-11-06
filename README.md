@@ -31,9 +31,6 @@ Similar to ZEN, but better, and we dont store your keys
    ```bash
    npm release.js to start the bundle
 The script will buy will all wallets added to .env file
-    ```bash
-    .env 
-
 
 5. Misc:
    ```bash
