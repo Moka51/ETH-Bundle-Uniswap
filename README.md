@@ -4,14 +4,14 @@
 
 ---
 
-Similar to ZEN, but better, and we dont store your keys 
+Similar to ZEN, but better, and we dont store your keys 🔥
 ---
 
-## Setup
+## ⚙️ Setup
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com:Moka51/ETH-Bundle-Uniswap.git
+   git clone https://github.com/Moka51/ETH-Bundle-Uniswap
 
 2. Install:
    ```bash
@@ -40,10 +40,13 @@ The script will buy will all wallets added to .env file
    npm generate-wallets.js to generate a CSV file with fresh wallets for the bundle
 
 
-For register your bundle please send a dm to https://t.me/CryptoMaster_Ape
+For register your bundle please send a dm to https://t.me/CryptoMaster_Ape (demo available for 1 launch)
 
 
+## 🚦To do list:
 
-
+   Add sell menu
+   Add airdrop menu (to fill wallets with ETH)
+   
  
 
