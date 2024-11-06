@@ -41,9 +41,9 @@ For register your bundle please send a dm to https://t.me/CryptoMaster_Ape (demo
 
 
 ## 🚦To do list:
+   Add sell menu.
 
-   Add sell menu
-   Add airdrop menu (to fill wallets with ETH)
+   Add airdrop menu (to fill wallets with ETH).
    
  
 
